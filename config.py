@@ -1,0 +1,6 @@
+import os
+
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "8327781822:AAEDMAT0AUoDuWDryXEXkPcsIk-MfZEZwWU")
+
+
+TELEGRAM_API_URL = f"https://api.telegram.org/bot{8327781822:AAEDMAT0AUoDuWDryXEXkPcsIk-MfZEZwWU}"
